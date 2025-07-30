@@ -31,8 +31,7 @@ A beautifully designed, fully responsive coffee shop landing page. This project 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/coffee-landing-page.git
-
+  https://github.com/Saurabh14711/PRODIGY_WD_01.git
 
 
 
